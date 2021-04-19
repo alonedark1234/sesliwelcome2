@@ -7,7 +7,7 @@
         "MIN_STAFF_ROLE": "YETKILI ROL ID"
     },
     "FILES": {
-        "WELCOME": "ses/hosgeldin.mp3",
+        "WELCOME": "ses/welcome.mp3",
         "STAFF": "ses/yetkili.mp3"
     },
     "TOKEN": ""
